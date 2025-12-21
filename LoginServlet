@@ -1,5 +1,3 @@
-
-
 package com.movieticket;
 
 import jakarta.servlet.ServletException;
