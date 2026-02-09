@@ -1,4 +1,4 @@
-#  Movie_Ticket__BookingThis project implements the core functionalities of a movie ticket booking platform:
+This project implements the core functionalities of a movie ticket booking platform:
 
 ✔ Users can log in and register
 
@@ -11,7 +11,7 @@
 ✔ Generates ticket overview after booking
 
 
-🚀 Technologies Used
+🚀 Technologies Used:
 
 Java – Backend logic
 
