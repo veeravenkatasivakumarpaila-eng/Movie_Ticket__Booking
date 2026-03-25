@@ -1,5 +1,4 @@
 
-
 This project implements the core functionalities of a movie ticket booking platform:
 
 ✔ Users can log in and register
