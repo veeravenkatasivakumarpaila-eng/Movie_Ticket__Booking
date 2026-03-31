@@ -22,3 +22,4 @@ HTML / CSS / JavaScript – Frontend UI
 Web Server: Apache Tomcat or any servlet container
 
 Optional: SQL scripts for database  setup
+
