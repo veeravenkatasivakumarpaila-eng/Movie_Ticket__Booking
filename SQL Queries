@@ -1,3 +1,4 @@
+
 CREATE DATABASE movie_ticket;
 USE movie_ticket;
 CREATE TABLE users (
