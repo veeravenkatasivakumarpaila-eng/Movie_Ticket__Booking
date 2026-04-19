@@ -10,7 +10,6 @@ This project implements the core functionalities of a movie ticket booking platf
 
 ✔ Generates ticket overview after booking
 
-
 🚀 Technologies Used:
 
 Java – Backend logic
