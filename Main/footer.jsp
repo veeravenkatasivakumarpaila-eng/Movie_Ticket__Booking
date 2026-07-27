@@ -7,7 +7,7 @@
 </head>
 <body>
 <div class="footer">
-    © 2025 DA Movie Ticket Booking
+     © 2025 DA Movie Ticket Booking
 </div>
 </body>
     </html>
